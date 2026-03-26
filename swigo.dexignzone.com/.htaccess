@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Redirect top-level template pages to the actual xhtml copies.
+# This keeps relative CSS/JS/image paths working because the browser URL
+# changes to /xhtml/<page>.html instead of staying at the root.
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/vishal/resturnat/swigo.dexignzone.com/xhtml/$1 -f
+RewriteRule ^([A-Za-z0-9_-]+\.html)$ xhtml/$1 [R=302,L]

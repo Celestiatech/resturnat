@@ -1,0 +1,79 @@
+{
+  "myhubrestaurant": {
+    "restaurant_name": "My Hub Restaurant",
+    "tagline": "Fresh meals, better margins, and a brand your customers remember.",
+    "description": "A sample website tailored for My Hub Restaurant to show how direct orders, branded menus, and WhatsApp enquiries can work from a dedicated site.",
+    "phone": "",
+    "email": "",
+    "whatsapp": "",
+    "address": "",
+    "zomato_url": "https://www.zomato.com/",
+    "swiggy_url": "https://www.swiggy.com/",
+    "cta_text": "Order Now",
+    "hero_badge": "This is a sample website created for your restaurant",
+    "menu": [
+      {
+        "name": "Signature Burger",
+        "description": "Juicy grilled patty, cheese, onion jam, and house sauce.",
+        "price": 249,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/shop/pic2.jpg"
+      },
+      {
+        "name": "Creamy Pasta",
+        "description": "Penne pasta in rich white sauce with herbs and garlic.",
+        "price": 299,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/gallery/grid2/pic2.jpg"
+      },
+      {
+        "name": "Loaded Pizza",
+        "description": "Thin crust pizza with mozzarella, capsicum, and olives.",
+        "price": 349,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/gallery/grid2/pic6.jpg"
+      },
+      {
+        "name": "Oreo Shake",
+        "description": "Cold blended shake topped with cream and cookie crumbs.",
+        "price": 179,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/gallery/grid2/pic5.jpg"
+      }
+    ]
+  },
+  "royal-biryani-house": {
+    "restaurant_name": "Royal Biryani House",
+    "tagline": "Turn marketplace customers into loyal repeat buyers.",
+    "description": "A personalized sample landing page for Royal Biryani House with direct ordering, WhatsApp conversion, and stronger local branding.",
+    "phone": "+919811112222",
+    "whatsapp": "919811112222",
+    "address": "Banjara Hills, Hyderabad",
+    "zomato_url": "https://www.zomato.com/",
+    "swiggy_url": "https://www.swiggy.com/",
+    "cta_text": "Order Biryani",
+    "hero_badge": "This is a sample website created for your restaurant",
+    "menu": [
+      {
+        "name": "Chicken Dum Biryani",
+        "description": "Fragrant basmati rice layered with tender chicken and spices.",
+        "price": 329,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/shop/pic4.jpg"
+      },
+      {
+        "name": "Mutton Biryani",
+        "description": "Slow-cooked mutton biryani with saffron rice and masala.",
+        "price": 419,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/gallery/grid2/pic4.jpg"
+      },
+      {
+        "name": "Chicken 65",
+        "description": "Crispy spicy chicken bites perfect for add-on orders.",
+        "price": 219,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/gallery/small/pic1.jpg"
+      },
+      {
+        "name": "Double Ka Meetha",
+        "description": "Classic Hyderabadi dessert to lift average order value.",
+        "price": 149,
+        "image": "/swigo.dexignzone.com/xhtml/assets/images/gallery/small/pic4.jpg"
+      }
+    ]
+  }
+}

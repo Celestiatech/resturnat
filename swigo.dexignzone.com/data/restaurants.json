@@ -1,0 +1,126 @@
+{
+  "myhubrestaurant": {
+    "restaurant_name": "My Hub Restaurant",
+    "logo_text": "MH",
+    "logo_label": "My Hub",
+    "tagline": "A fresh, branded ordering experience for loyal local customers.",
+    "hero_badge": "This is a sample website created for your restaurant",
+    "hero_title": "Your restaurant brand, direct orders, and a website customers remember.",
+    "hero_text": "We used your restaurant name to create a personalized demo that looks like a ready-to-launch food website, not just another marketplace listing.",
+    "site_button_text": "Watch Your Site",
+    "phone": "+919876543210",
+    "whatsapp": "919876543210",
+    "email": "hello@myhubrestaurant.com",
+    "address": "Main Market Road, Hyderabad",
+    "map_url": "https://maps.google.com/?q=Main+Market+Road+Hyderabad",
+    "cta_text": "Order on WhatsApp",
+    "zomato_url": "https://www.zomato.com/",
+    "swiggy_url": "https://www.swiggy.com/",
+    "blogs": [
+      {
+        "title": "How My Hub Restaurant Can Win More Direct Orders",
+        "excerpt": "A branded website helps convert repeat customers without depending only on food apps."
+      },
+      {
+        "title": "Why WhatsApp Ordering Works for Local Restaurants",
+        "excerpt": "Fast responses, easy repeat business, and lower friction make WhatsApp a strong sales channel."
+      },
+      {
+        "title": "Turn Marketplace Discovery Into Loyal Customers",
+        "excerpt": "Use your restaurant website to capture attention, showcase menu highlights, and build recall."
+      },
+      {
+        "title": "A Better Online Presence for My Hub Restaurant",
+        "excerpt": "Custom branding, direct CTA buttons, and a clear menu can make your restaurant look more premium."
+      }
+    ],
+    "menu": [
+      {
+        "name": "Signature Burger",
+        "description": "Juicy grilled patty, cheese, onion jam, and house sauce.",
+        "price": 249,
+        "image": "xhtml/assets/images/shop/pic2.jpg"
+      },
+      {
+        "name": "Creamy Pasta",
+        "description": "Penne pasta in rich white sauce with herbs and garlic.",
+        "price": 299,
+        "image": "xhtml/assets/images/gallery/grid2/pic2.jpg"
+      },
+      {
+        "name": "Loaded Pizza",
+        "description": "Thin crust pizza with mozzarella, capsicum, and olives.",
+        "price": 349,
+        "image": "xhtml/assets/images/gallery/grid2/pic6.jpg"
+      },
+      {
+        "name": "Oreo Shake",
+        "description": "Cold blended shake topped with cream and cookie crumbs.",
+        "price": 179,
+        "image": "xhtml/assets/images/gallery/grid2/pic5.jpg"
+      }
+    ]
+  },
+  "royal-biryani-house": {
+    "restaurant_name": "Royal Biryani House",
+    "logo_text": "RB",
+    "logo_label": "Royal Biryani",
+    "tagline": "Turn food-app discovery into direct repeat orders.",
+    "hero_badge": "This is a sample website created for your restaurant",
+    "hero_title": "A branded direct-order website for your biryani lovers.",
+    "hero_text": "This demo shows how Royal Biryani House could look with its own premium online presence, WhatsApp ordering, and stronger local branding.",
+    "site_button_text": "Watch Your Site",
+    "phone": "+919811112222",
+    "whatsapp": "919811112222",
+    "email": "hello@royalbiryanihouse.com",
+    "address": "Banjara Hills, Hyderabad",
+    "map_url": "https://maps.google.com/?q=Banjara+Hills+Hyderabad",
+    "cta_text": "Order Biryani",
+    "zomato_url": "https://www.zomato.com/",
+    "swiggy_url": "https://www.swiggy.com/",
+    "blogs": [
+      {
+        "title": "Why Royal Biryani House Needs a Direct Order Website",
+        "excerpt": "A premium website helps your biryani brand stand out beyond aggregator listings."
+      },
+      {
+        "title": "How Biryani Brands Grow With WhatsApp Orders",
+        "excerpt": "Customers want quick ordering, instant replies, and a simple way to reorder favorites."
+      },
+      {
+        "title": "Build Brand Recall Beyond Swiggy and Zomato",
+        "excerpt": "A direct website keeps your restaurant name front and center instead of the marketplace brand."
+      },
+      {
+        "title": "Make Royal Biryani House Look Premium Online",
+        "excerpt": "Better branding, better presentation, and stronger trust can lift conversions."
+      }
+    ],
+    "menu": [
+      {
+        "name": "Chicken Dum Biryani",
+        "description": "Fragrant basmati rice layered with tender chicken and spices.",
+        "price": 329,
+        "image": "xhtml/assets/images/shop/pic4.jpg"
+      },
+      {
+        "name": "Mutton Biryani",
+        "description": "Slow-cooked mutton biryani with saffron rice and masala.",
+        "price": 419,
+        "image": "xhtml/assets/images/gallery/grid2/pic4.jpg"
+      },
+      {
+        "name": "Chicken 65",
+        "description": "Crispy spicy chicken bites perfect for add-on orders.",
+        "price": 219,
+        "image": "xhtml/assets/images/gallery/small/pic1.jpg"
+      },
+      {
+        "name": "Double Ka Meetha",
+        "description": "Classic Hyderabadi dessert to lift average order value.",
+        "price": 149,
+        "image": "xhtml/assets/images/gallery/small/pic4.jpg"
+      }
+    ]
+  }
+}

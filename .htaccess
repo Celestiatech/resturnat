@@ -1,0 +1,9 @@
+RewriteEngine On
+
+# Serve real files and directories directly.
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Route restaurant slugs like /myhubrestaurant to the PHP template.
+RewriteRule ^([a-zA-Z0-9-]+)/?$ index.php?slug=$1 [L,QSA]
